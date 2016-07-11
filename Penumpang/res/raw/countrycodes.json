@@ -1,0 +1,15 @@
+[
+	
+	{
+		"name":"Indonesia",
+		"alpha-2":"ID",
+		"country-code":"360",
+		"phone-code":"+62"
+	}]
+	
+	
+<string-array name="countries">
+
+  <country code='id' phoneCode='62' name='Indonesia' />
+  
+</string-array>
